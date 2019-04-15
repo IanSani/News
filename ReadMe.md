@@ -35,7 +35,7 @@ As a user I would like to:
 ### Cloning
 * In your terminal:
 
-        $ git clone https://github.com/emdeechege/NewsApi/
+        $ git clone https://github.com/IanSani/News/
         $ cd NewsPI
 
 ## Running the Application
